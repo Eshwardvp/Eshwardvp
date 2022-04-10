@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eshwardvp
 - 👀 I’m interested in learning new technologies in DevOps tools
-- 🌱 I’m using AWS as a cloud platform
+- 🌱 I’m using AWS as a cloud platform in my current projects
 - 💞️ I’m looking to collaborate on Aws & Azure DevOps
 - 📫  you can reach me at eshwardvp@gmail.com
 
