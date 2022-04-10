@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Eshwardvp
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning AWS DevOps
+- 👀 I’m interested in learning new technologies in DevOps tools
+- 🌱 I’m using AWS as a cloud platform
 - 💞️ I’m looking to collaborate on Aws & Azure DevOps
-- 📫 How to reach me ...
- you can reach me at eshwardvp@gmail.com
+- 📫  you can reach me at eshwardvp@gmail.com
 
 <!---
 Eshwardvp/Eshwardvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
